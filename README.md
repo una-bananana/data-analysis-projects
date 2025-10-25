@@ -11,6 +11,7 @@ This repository showcases my hands-on projects created as part of my journey int
 2. **2-exploratory-data-analysis.ipynb** – A deeper look into data wrangling and visualization, highlighting insights through EDA techniques.
 3. **3-statistical-data-analysis.ipynb** – Statistical testing and hypothesis validation applied to real datasets.
 4. **4-videogame-project.ipynb** – A complete data analysis project exploring global video game sales trends, regional differences, and genre preferences.
+5. **5-intro-to-machine-learning** - Introduction to machine learning finding best phone plan available depending on usage data.
 
 ---
 
@@ -20,6 +21,7 @@ This repository showcases my hands-on projects created as part of my journey int
 - Exploratory data analysis (EDA)
 - Hypothesis testing and basic statistics
 - Data visualization and storytelling
+- Basic machine learning
 
 ---
 
