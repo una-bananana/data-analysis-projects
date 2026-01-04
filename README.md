@@ -1,6 +1,5 @@
-# 👋 Hi, I’m Ana
+# Data Analysis Portfolio
 
-Welcome to my **Data Analysis Portfolio**!  
 I’m a passionate data enthusiast building hands-on projects to sharpen my skills in Python, exploratory data analysis, statistics, and machine learning.
 
 I’m currently open to:
@@ -99,6 +98,26 @@ Across these projects, I’ve showcased proficiency in:
 - Exploratory Data Analysis (EDA)  
 - Statistical testing and interpretation  
 - Model training, validation, and evaluation
+
+---
+## Visual examples
+
+
+**`8-machine-learning-gold-project.ipynb`**
+
+<img width="898" height="487" alt="1" src="https://github.com/user-attachments/assets/ace5fe1a-3da9-47ad-a08c-d8e6d0dbed65" />
+
+
+
+**`6-supervised-learning.ipynb`**
+
+<img width="845" height="460" alt="2" src="https://github.com/user-attachments/assets/e25c9308-7b75-4a2b-b78e-744ea9924adb" />
+
+
+
+**`4-videogame-project.ipynb`**
+
+<img width="686" height="476" alt="3" src="https://github.com/user-attachments/assets/faf1dcba-883f-47f6-82fc-73e1a46fe54a" />
 
 ---
 
