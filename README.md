@@ -84,6 +84,54 @@ Here’s a quick tour of what you’ll find in this repository:
 
 ---
 
+### **10. Numerical Methods**
+
+📌 `10-numerical-methods.ipynb`
+
+- Applies numerical techniques to optimize model performance and improve computational efficiency
+- Covers iterative methods, error analysis, and approximation techniques
+- Compares algorithm performance and evaluates trade-offs between accuracy and speed
+
+---
+
+### **11. Time Series Forecasting**
+
+📌 `11-time-series.ipynb`
+
+- Builds a model to predict time-based demand (e.g., taxi orders) using historical data
+- Covers resampling, trend/seasonality analysis, and time-based feature engineering
+- Trains and evaluates models using RMSE to optimize forecasting accuracy
+
+---
+
+### **12. Machine Learning for Texts (NLP)**
+
+📌 `12-machine-learning-texts.ipynb`
+
+- Develops a sentiment classification model for text data (movie reviews)
+- Includes text preprocessing and TF-IDF feature extraction
+- Trains multiple models (Logistic Regression, SGD, Naive Bayes) and evaluates using F1 score
+
+---
+
+### **13. Computer Vision**
+
+📌 `13-computer-vision.ipynb`
+
+- Applies deep learning techniques to image data using convolutional neural networks (CNNs)
+- Uses pre-trained models (ResNet) and transfer learning for feature extraction
+- Evaluates model performance on image-based prediction tasks
+
+---
+
+### **14. Customer Churn Prediction**
+
+📌 `14-machine-learning-churn.ipynb`
+
+- Builds a classification model to predict customer churn using service and demographic data
+- Covers data preprocessing, feature engineering, and handling categorical variables
+- Trains and compares models, optimizing performance using evaluation metrics like F1 score
+
 ## 🛠️ Skills Highlighted
 
 Across these projects, I’ve showcased proficiency in:
